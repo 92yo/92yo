@@ -21,7 +21,7 @@
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/yousefrizik)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=92yo&show_icons=true&locale=en&layout=compact" alt="92yo" /></p>
-
 ## 🎵 Spotify Playing 
-[![Spotify](https://spotify-github-92yo.vercel.app/api/spotify)](https://open.spotify.com/user/mv3qb62so4wcikf9hglk99psa)
+[![Spotify](https://spotify-github-92yo.vercel.app/api/spotify)](https://open.spotify.com/user/mv3qb62so4wcikf9hglk99psa)&nbsp; 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=92yo&show_icons=true&locale=en&layout=compact" alt="92yo" />
+
