@@ -22,3 +22,6 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=92yo&show_icons=true&locale=en&layout=compact" alt="92yo" /></p>
+
+## 🎵 Spotify Playing 
+[![Spotify](https://spotify-github-92yo.vercel.app/api/spotify)](https://open.spotify.com/user/mv3qb62so4wcikf9hglk99psa)
