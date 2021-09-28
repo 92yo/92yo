@@ -18,10 +18,10 @@
 <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
 
 ## 🔍  Where to find me
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/yousefrizik)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" align='right'/>](https://www.linkedin.com/in/yousefrizik)
 
 
 ## 🎵 Spotify Playing 
 [![Spotify](https://spotify-github-92yo.vercel.app/api/spotify)](https://open.spotify.com/user/mv3qb62so4wcikf9hglk99psa)&nbsp; 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=92yo&show_icons=true&locale=en&layout=compact" alt="92yo" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=92yo&show_icons=true&locale=en&layout=compact" alt="92yo" />
 
