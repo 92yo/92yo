@@ -16,12 +16,15 @@
 <img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
 <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />
 <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
+<br/>
 
 ## 🔍  Where to find me
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" align='right'/>](https://www.linkedin.com/in/yousefrizik)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" align='left'/>](https://www.linkedin.com/in/yousefrizik)
+<br/>
+
 
 
 ## 🎵 Spotify Playing 
 [![Spotify](https://spotify-github-92yo.vercel.app/api/spotify)](https://open.spotify.com/user/mv3qb62so4wcikf9hglk99psa)&nbsp; 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=92yo&show_icons=true&locale=en&layout=compact" alt="92yo" />
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs?username=92yo&show_icons=true&locale=en&layout=compact" alt="92yo" />
 
