@@ -9,7 +9,8 @@
 
 ## 📖  What I am currently learning / improving on
 <img src="https://img.shields.io/badge/react-native-282C34?logo=react&logoColor=39E6FA" alt="react-native logo" title="react-native" height="25" /> &nbsp;
-<img src="https://img.shields.io/badge/redux-282C34?logo=redux&logoColor=941EFA" alt="react-native logo" title="react-native" height="25" /> &nbsp;
+<img src="https://img.shields.io/badge/redux-282C34?logo=redux&logoColor=941EFA" alt="react-native logo" title="redux" height="25" /> &nbsp;
+<img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" alt="react-native logo" title=typescript" height="25" /> &nbsp;
 
 ## 👾  What I am interested in learning at some point
 <img src="https://img.shields.io/badge/java-282C34?logo=java&logoColor=F54D2F" alt="react-native logo" title="react-native" height="25" aligh='right' /> &nbsp;
