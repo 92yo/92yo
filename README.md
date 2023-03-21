@@ -8,15 +8,15 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
 ## 📖  What I am currently learning / improving on
-<img src="https://img.shields.io/badge/react-native-282C34?logo=react&logoColor=39E6FA" alt="react-native logo" title="react-native" height="25" /> &nbsp;
 <img src="https://img.shields.io/badge/redux-282C34?logo=redux&logoColor=941EFA" alt="react-native logo" title="redux" height="25" /> &nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" alt="typescript logo" title="typescript" height="25" /> &nbsp;
+<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
 
 ## 👾  What I am interested in learning at some point
+<img src="https://img.shields.io/badge/react-native-282C34?logo=react&logoColor=39E6FA" alt="react-native logo" title="react-native" height="25" /> &nbsp;
 <img src="https://img.shields.io/badge/java-282C34?logo=java&logoColor=F54D2F" alt="react-native logo" title="react-native" height="25" aligh='right' /> &nbsp;
-<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
 <img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
 <br/>
 
 ## 🔍  Where to find me
@@ -24,8 +24,4 @@
 <br/>
 
 
-
-## 🎵 Spotify Playing 
-[![Spotify](https://spotify-github-92yo.vercel.app/api/spotify)](https://open.spotify.com/user/mv3qb62so4wcikf9hglk99psa)&nbsp; 
-<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs?username=92yo&show_icons=true&locale=en&layout=compact" alt="92yo" />
 
